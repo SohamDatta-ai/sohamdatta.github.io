@@ -8,48 +8,45 @@ extensions:
   - now-shortcode
 
 website:
-  title: "VB's Notes and Ramblings"
-  description: "AI and ML field notes, talks, and learnings from Vaibhav/ VB"
-  site-url: "https://vaibhavs10.github.io"
+  title: "Soham Datta"
+  description: "AI Researcher specializing in emotionally intelligent systems and human-centered design."
+  site-url: "https://sohamdatta.ai"
   image: "/images/social-card.jpg"
-  image-alt: "VB's website social card"
+  image-alt: "Soham Datta's website social card"
   favicon: images/favicon.png
   open-graph:
-    site-name: "VB's Notes and Ramblings"
-  twitter-card:
-    card-style: summary_large_image
-    site: "@reach_vb"
-    creator: "@reach_vb"
+    site-name: "Soham Datta | AI Researcher"
   page-footer:
-    left: "© {{< now format='YYYY' >}} Vaibhav (VB) Srivastav"
+    left: "© {{< now format='YYYY' >}} Soham Datta"
   navbar:
     background: none
     right:
       - tools.qmd
       - about.qmd
       - now.qmd
-      - icon: twitter
-        href: https://twitter.com/reach_vb
+      - icon: github
+        href: https://github.com/SohamDatta-ai
+      - icon: linkedin
+        href: https://linkedin.com/in/sohamdatta-ai/
 metadata:
   author:
-    name: "Vaibhav (VB) Srivastav"
-    url: "https://vaibhavs10.github.io"
-  site-title: "VB's Notes and Ramblings"
-  site-url: "https://vaibhavs10.github.io"
-  site-description: "AI and ML field notes, talks, and learnings from Vaibhav/ VB"
+    name: "Soham Datta"
+    url: "https://sohamdatta.ai"
+  site-title: "Soham Datta"
+  site-url: "https://sohamdatta.ai"
+  site-description: "AI Researcher specializing in emotionally intelligent systems, on-device ML, and human-centered design."
   keywords:
-    - Artificial Intelligence
+    - AI Researcher
     - Machine Learning
-    - Data Science
-    - Personal Blog
-    - Research Notes
+    - Emotional AI
+    - Edge ML
+    - Privacy-first AI
+    - Creative Technologist
   social-image: "/images/social-card.jpg"
-  social-image-alt: "VB's website social card"
-  twitter-site: "@reach_vb"
-  twitter-creator: "@reach_vb"
+  social-image-alt: "Soham Datta's website social card"
   same-as:
-    - https://twitter.com/reach_vb
-    - https://www.linkedin.com/in/vaibhavs10
+    - https://www.linkedin.com/in/sohamdatta-ai/
+    - https://github.com/SohamDatta-ai
 format:
   html:
     theme:

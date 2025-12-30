@@ -1,0 +1,23 @@
+---
+title: "Building AURA: The Journey to Emotionally Intelligent Edge AI"
+description: "How I'm building a privacy-first wearable companion using on-device ML."
+author: "Soham Datta"
+date: "2025-12-30"
+categories: [Research, Edge ML, Emotional AI]
+image: "aura-preview.jpg"
+---
+
+The dream of a truly personal AI isn't just about knowledge—it's about understanding. For the past year, I've been obsessed with how we can make AI perceive and respond to human emotion, all while keeping that data local and private.
+
+## Why Local?
+
+Privacy is non-negotiable when dealing with emotional data. AURA is designed to run entirely on-device, starting with the Raspberry Pi Zero 2W. This means:
+- **Zero Latency:** No cloud round-trips.
+- **Privacy by Design:** Your emotions stay on your device.
+- **Resilience:** Works without an internet connection.
+
+## The Tech Stack
+
+We're utilizing **DistilBERT** for sentiment classification, optimized via quantization to fit in sub-1GB RAM environments. For memory, we use **FAISS** to create an episodic bank of past interactions, allowing AURA to "remember" context over time.
+
+Stay tuned as I document the hardware build and model refinement process!

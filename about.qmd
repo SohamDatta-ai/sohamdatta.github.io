@@ -1,28 +1,25 @@
 ---
 title: "About"
-description: "Background on Vaibhav Srivastav aka VB, Developer Experience Engineer focused on AI."
+description: "Background on Soham Datta, AI Researcher focused on emotionally intelligent systems and human-centered design."
 about:
   template: solana
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/reach_vb
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/vaibhavs10/
+      href: https://linkedin.com/in/sohamdatta-ai/
     - icon: github
       text: Github
-      href: https://github.com/Vaibhavs10
+      href: https://github.com/SohamDatta-ai
 
 ---
 
 ## **Me in 10 seconds**
 
-I’m an ML Developer Advocate at Hugging Face focusing on extracting better insights from Text + Audio & on-device ML.
+I’m an AI Researcher specializing in emotionally intelligent systems at the intersection of on-device ML and human-centered design. I build privacy-first AI that adapts to emotional context without cloud dependency.
 
-I’ve been a freelancer, tax analyst, consultant, tech speaker and advisor for five years. In the past three years, I’ve invested significant time volunteering for open source and science organisations like Hugging Face, EuroPython, PyCons across APAC, Google Cloud Delhi, and Facebook Developer Circles.
+Currently, I'm the Founder of SOHAI LABS and an AWS AI/ML Scholar, pursuing my B.E. in AI & ML at the University of Pune.
 
-Delhi native, I now live in France! 
+Pune native, I'm building the future of local, empathetic intelligence!
 
 **What am I doing now?**
 
@@ -30,27 +27,26 @@ Delhi native, I now live in France!
 
 ## **Me in 10 Minutes**
 
-I’m an engineer at heart who likes to fix more things than he breaks. I’m researching and democratising niche Audio Understanding, Enhancement and Generation systems at the University of Stuttgart & Hugging Face. I’ve consulted across the board, from *Startups* to *Fortune Technology 10* firms, to help them build ML into their day-to-day workflows and make better sense of unstructured data silos.
-I’ve spent the past five years exploring the world of *Data*, *Linguistics* and *Math*.
+I’m a creative technologist who believes that the next frontier of AI isn't just "smarter" but "more empathetic." My work focuses on bridging the gap between raw compute and human emotion. I've been researching on-device models that can perceive and respond to user sentiment in real-time, ensuring that intelligence remains personal and private.
 
-In addition to my research, I’ve been cultivating [Machine Learning for Audio study group](https://github.com/Vaibhavs10/ml-with-audio) with the Hugging Face community. I was also recently made a [Hugging Face Fellow](https://www.notion.so/Hugging-Fellows-One-Pager-fa1c8878a7a14945b7e0dda2d1e34f36?pvs=21) for my advocacy work.
+I recently completed an AI/ML internship at Google/Eduskills, where I optimized computer vision models for edge devices, achieving significant accuracy gains. I've also automated complex HR workflows for Reliance Industries using LLMs, proving that even at scale, AI can make operations more human-centric.
 
-I’m always game for research collaborations and freelance consulting work. Head to Talks and Consulting to learn how I can create value for you and your organisation. Drop me a line on Twitter ([@reach_vb](http://twitter.com/reach_vb)), and we’ll figure out the rest! ;)
+My "hero project," AURA, is a wearable AI companion that uses local semantic memory and sentiment analysis to provide context-aware support. I'm also conceptualizing OS-1, an AI-native operating system designed to rethink how we interact with information.
+
+I’m always open to research collaborations, particularly in the realms of Edge ML, Affective Computing, and RAG systems. Drop me a line on LinkedIn ([Soham Datta](https://linkedin.com/in/sohamdatta-ai/)), and let's build something meaningful! ;)
 
 ### **Timeline for context**
 
-2014: Marketing + Sales funnel analytics for Microsoft Lumia campaigns in India.
+2022: Started B.E. in AI & ML @ PES Modern College of Engineering.
 
-2016: Freelance Data Analytics + Visualisation for Print + Social Media agencies.
+2023: Published research on "Information Literacy in Education" & Digitized 3k+ records for MCOE.
 
-- Medium-scale businesses with a focus on creating more re-usable IP
-- Scaled to mid-5-figure revenue
-- Shut down in mid-2017 owing to health complications and burnout
+2024 (Jul-Oct): Operations Associate @ Reliance Industries - Automated 50+ workflows with GPT-4.
 
-2017: Data Science consultant @ Deloitte US-India
+2024 (Oct-Dec): AI/ML Intern @ Google/Eduskills - Focused on Edge CV model optimization.
 
-- 12 countries, 3M$+ impact
+2024 (Sep-Present): Founded SOHAI LABS - Mentoring students and delivering custom AI solutions.
 
-2020: Moved to Germany - to research NLP & Speech
+2025: Nominated as AWS AI/ML Scholar (Udacity) - Top 0.1% of applicants globally.
 
-2023: Moved to France - to democratise NLP & Speech
+

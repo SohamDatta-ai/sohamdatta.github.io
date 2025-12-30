@@ -12,4 +12,4 @@ Allow: /
 
 User-agent: *
 Allow: /
-Sitemap: https://vaibhavs10.github.io/sitemap.xml
+Sitemap: https://sohamdatta.ai/sitemap.xml

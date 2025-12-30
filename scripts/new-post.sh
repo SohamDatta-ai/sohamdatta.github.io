@@ -29,7 +29,7 @@ mkdir -p "$DIR"
 cat > "$FILE" <<EOF
 ---
 title: "$TITLE"
-author: "VB"
+author: "Soham Datta"
 date: "$DATE"
 categories: []
 draft: true      # flip to false when ready

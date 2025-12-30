@@ -1,5 +1,5 @@
 ---
-title: "VB's thoughts, comments and musings"
+title: "Soham Datta's AI & ML Field Notes"
 description: ""
 author: ""
 listing:

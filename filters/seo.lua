@@ -231,16 +231,12 @@ function Pandoc(doc)
   ensure_meta_string(meta, "social-image", image)
   local absolute = absolute_image(site_url, image)
   ensure_meta_string(meta, "social-image-abs", absolute or image)
-  local image_alt = meta_string(meta["image-alt"]) or meta_string(meta["social-image-alt"]) or "VB's website social card"
+  local image_alt = meta_string(meta["image-alt"]) or meta_string(meta["social-image-alt"]) or "Soham Datta's website social card"
   ensure_meta_string(meta, "social-image-alt", image_alt)
 
   local canonical = compute_canonical(site_url) or meta_string(meta["canonical-url"])
   ensure_meta_string(meta, "canonical-url", canonical)
 
-  local twitter_site = meta_string(meta["twitter-site"]) or meta_string(meta["twitter"]) or "@reach_vb"
-  local twitter_creator = meta_string(meta["twitter-creator"]) or twitter_site
-  ensure_meta_string(meta, "twitter-site", twitter_site)
-  ensure_meta_string(meta, "twitter-creator", twitter_creator)
   ensure_meta_string(meta, "twitter-card", meta_string(meta["twitter-card"]) or "summary_large_image")
 
   local og_type = "website"
@@ -261,7 +257,7 @@ function Pandoc(doc)
       author_name = utils.stringify(author[1])
     end
   end
-  ensure_meta_string(meta, "author-name", author_name or "Vaibhav (VB) Srivastav")
+  ensure_meta_string(meta, "author-name", author_name or "Soham Datta")
 
   local published = meta_string(meta["date"])
   if published and published:match("^%d%d%d%d%-%d%d%-%d%d") then
@@ -313,7 +309,7 @@ function Pandoc(doc)
     {
       "@type": "Person",
       "@id": "%s",
-      "name": "Vaibhav (VB) Srivastav",
+      "name": "Soham Datta",
       "url": "%s",
       "description": "%s",
       "image": "%s",

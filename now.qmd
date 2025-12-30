@@ -1,51 +1,42 @@
 ---
 title: "Now"
-description: "Current focuses, research, travel, and personal updates from Vaibhav Srivastav aka VB."
+description: "Current focuses, research, and personal updates from Soham Datta."
 ---
 
 What am I focused on at this point in life?
 
-Updated 13th April 2025, from Paris, FR.
+Updated 30th December 2025, from Pune, India.
 
-# 📚 Research & Work
+ Research & Work
 ---
 
-Life has been in hyper-drive since the last time I wrote one of these. My role at work (Hugging Face) has changed quite drastically, lot more high stakes and hell of a lot more fun.
-Be it collaborating with some of the top labs, researching Audio LMs, Text-to-Speech or about helping the team excute new product ideas/ directions - it has been a hoot and a half.
+My life is currently centered around the development of **AURA**, my emotionally intelligent wearable AI companion. I'm deep-diving into DistilBERT for on-device sentiment analysis and implementing FAISS for episodic memory on constraints like the Raspberry Pi Zero 2W.
 
-It's also good realisation to take it easy every now and then, all gas and no pitstop is not as fun. That said, this job has pretty much made me an adrenaline junkie with so much cool stuff happening all around.
+As the founder of **SOHAI LABS**, I'm also spending time mentoring juniors in my college and delivering AI/ML solutions for local businesses. It's incredibly rewarding to see theoretical concepts come to life in the hands of students.
 
-I'm also quite lucky to have people who have my best interests around me at work too, looking at you Julien, Lys, and Pedro - priviliged to be working with these lads!
+I'm also preparing for my **AWS AI/ML Udacity Nanodegree** as an AWS Scholar, focusing on Generative AI and cloud-based ML pipelines.
 
-Fun tid-bit: I've understood that I'm good for nothing in the mornings and usually my brain kicks-in around mid-day.
-
-Lesson from last couple months - you/ your team is as good as the incentives they are provided with, change the incentives, you can change the outcomes!
-
-# 🙌 Volunteering
+ Community & Learning
 ---
 
-Still haven't found the calm or the energy to get back to volunteering. More than the volunteering I do miss the friends I made along the way. I'm hoping I get a chance to meet some of these lovelies soon.
+I'm actively participating in the **Google/Eduskills** community following my internship, and I'm looking for ways to further democratize access to AI education in Pune. 
 
-On the brightside, I'm moving on nicely from last years dramatic EuroPython :)
+I'm also learning more about **Material Design 3** and **Framer** to ensure my AI research has a premium, user-friendly interface.
 
-# 🧠 Mental health
+ Philosophy
 ---
 
-Basically, endurance sports is all you need to get the good old man up in the head to stop playing tricks with you! Been running and biking off-late and it has been keeping me sane whilst everything around me is in hyperdrive.
+I've been thinking a lot about the balance between technical complexity and user experience. "Complexity should be hidden, not showcased." My goal is to build tools that feel like magic but are grounded in rigorous science.
 
-This also means I have a huge dependence on running/ biking to take the edge off - spend Feb/ March battling with a crazy case of spint splints & plantar fasciitis and the mind did take a good toll.
+To keep my mind sharp, I enjoy exploring new prompt engineering techniques and tinkering with local LLM quantization.
 
-Still, overall it's been mostly positive and I'm happy thet there's a consistent way to channelise energy now!
-
-# 🏡 “Home”
+ Pune
 ---
 
-Oof, loads of thinking about this one, whilst I really love where I live currently - it comes with it's own side effects. Mostly comes down to how deeply integrated one is in their surroundings. I love the nature around but it still doesn't feel like home, with friends scattered around different countries, I feel a little lost sometimes.
-It's a chicken and egg problem, you need to put in the time to feel at home but at the same time because you don't feel at home you put in time in mindless pursuits.
+Living and working in Pune, the "Oxford of the East," provides a great environment for research and growth. I'm enjoying being close to the developer community here while building global-scale projects.
 
-Hoping to figure out long term plans soon and put them in motion ^^'
-
-# ✈️ Travel & Public speaking
+ Future
 ---
 
-After two years of hiatus from public speaking, I'm getting back into action this year with a few guest lectures/ workshops and talks lined up already. Going to be fun rest of the year and I'm here for it!
+I'm aiming to present my work on AURA at upcoming tech conferences and research symposiums. The goal for 2026 is to have a fully functional prototype of OS-1 and AURA in the hands of users!
+
